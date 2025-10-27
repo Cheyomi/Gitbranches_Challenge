@@ -11,6 +11,9 @@ namespace Gitbranches_Challenge
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.ReadKey();
+            Console.Clear();
+            Console.WriteLine("Hello Roman & Simon");
         }
     }
 }
