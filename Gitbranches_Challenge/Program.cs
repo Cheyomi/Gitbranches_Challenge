@@ -10,10 +10,10 @@ namespace Gitbranches_Challenge
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Bye World");
             Console.ReadKey();
             Console.Clear();
-            Console.WriteLine("Hello Roman & Simon");
+            Console.WriteLine("womp womp Roman & Simon");
         }
     }
 }
