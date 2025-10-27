@@ -10,9 +10,7 @@ namespace Gitbranches_Challenge
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I love monster energy");
-            Console.ReadKey();
-            Console.Clear();
+            Console.WriteLine("Hello World");
             Console.WriteLine("womp womp ball from overwatch");
         }
     }
